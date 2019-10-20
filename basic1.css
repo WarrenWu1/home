@@ -1,0 +1,18 @@
+body
+{
+     font-family:Apple Chancery;
+     text-align: justify;
+}
+
+h1
+{
+    font-family:"Brush Script MT";
+    color: yellow;
+    id ="Top";
+    font-size:80px;
+}
+
+.a
+{
+	background-color:green;
+}
